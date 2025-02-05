@@ -2,7 +2,7 @@
 this is project which i done for class ass-2 seema mam
 Data Analyst Job Requirements Scraper
 
-📊 Overview
+# 📊 Overview
 
 This Python project scrapes job requirements for Data Analyst positions from job listing websites using BeautifulSoup. It extracts key information such as job titles, skills, qualifications, and other relevant details to help analyze current market demands for Data Analyst roles.
 
@@ -20,8 +20,7 @@ Simple, beginner-friendly codebase for learning web scraping
 
 Clone the repository:
 
-git clone https://github.com/yourusername/data-analyst-job-scraper.git
-cd data-analyst-job-scraper
+git clone https://github.com/Pankaj1662005/Web-Scraping-ass-2_mam-/.git
 
 Install required packages:
 
@@ -45,33 +44,8 @@ Requests
 
 Pandas (optional, for data analysis)
 
-📈 Sample Output
 
-Job Title
-
-Company
-
-Location
-
-Skills
-
-Data Analyst
-
-ABC Corp
-
-New York
-
-SQL, Python, Excel
-
-Junior Analyst
-
-XYZ Ltd
-
-San Diego
-
-Tableau, Power BI, R
-
-🤝 Contributing
+# 🤝 Contributing
 
 Feel free to fork the project, make improvements, and create pull requests.
 
